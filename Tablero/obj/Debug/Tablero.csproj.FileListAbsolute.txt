@@ -1,0 +1,117 @@
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Tablero\bin\Debug\Tablero.exe.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Tablero\bin\Debug\Tablero.exe
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Tablero\bin\Debug\Tablero.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Tablero\bin\Debug\CapaNegocio.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Tablero\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Tablero\bin\Debug\CapaDatos.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Tablero\bin\Debug\CapaNegocio.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Tablero\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Tablero\bin\Debug\CapaDatos.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Tablero\bin\Debug\CapaDatos.dll.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Tablero\obj\Debug\Tablero.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Tablero\obj\Debug\Tablero.FrmJuego.resources
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Tablero\obj\Debug\Tablero.Properties.Resources.resources
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Tablero\obj\Debug\Tablero.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Tablero\obj\Debug\Tablero.csproj.CopyComplete
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Tablero\obj\Debug\Tablero.exe
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer\Tablero\obj\Debug\Tablero.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Tablero\bin\Debug\Tablero.exe.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Tablero\bin\Debug\Tablero.exe
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Tablero\bin\Debug\Tablero.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Tablero\bin\Debug\CapaNegocio.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Tablero\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Tablero\bin\Debug\CapaDatos.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Tablero\bin\Debug\CapaNegocio.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Tablero\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Tablero\bin\Debug\CapaDatos.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Tablero\bin\Debug\CapaDatos.dll.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.FrmJuego.resources
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.Properties.Resources.resources
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.csproj.CopyComplete
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.exe
+C:\Users\Maria\Desktop\Trabajando\2Dam\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\Tablero.exe.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\Tablero.exe
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\Tablero.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\CapaNegocio.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\CapaDatos.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\CapaNegocio.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\CapaDatos.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\CapaDatos.dll.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.FrmJuego.resources
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.Properties.Resources.resources
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.csproj.CopyComplete
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.exe
+C:\Users\Maria\Desktop\Trabajando\2Dam\05 SerONoSer\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\Tablero.exe.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\Tablero.exe
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\Tablero.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\CapaNegocio.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\CapaDatos.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\CapaNegocio.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\CapaDatos.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Tablero\bin\Debug\CapaDatos.dll.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.FrmJuego.resources
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.Properties.Resources.resources
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.csproj.CopyComplete
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.exe
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida\Tablero\obj\Debug\Tablero.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Tablero\bin\Debug\Tablero.exe.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Tablero\bin\Debug\Tablero.exe
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Tablero\bin\Debug\Tablero.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Tablero\bin\Debug\CapaNegocio.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Tablero\bin\Debug\Entidades.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Tablero\bin\Debug\CapaDatos.dll
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Tablero\bin\Debug\CapaNegocio.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Tablero\bin\Debug\Entidades.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Tablero\bin\Debug\CapaDatos.pdb
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Tablero\bin\Debug\CapaDatos.dll.config
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Tablero\obj\Debug\Tablero.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Tablero\obj\Debug\Tablero.FrmJuego.resources
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Tablero\obj\Debug\Tablero.Properties.Resources.resources
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Tablero\obj\Debug\Tablero.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Tablero\obj\Debug\Tablero.csproj.CopyComplete
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Tablero\obj\Debug\Tablero.exe
+C:\Users\Maria\Desktop\Trabajando\2Dam\06 SerONoSer\SerONoSer Con Valida y Nivel\Tablero\obj\Debug\Tablero.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Tablero\bin\Debug\Tablero.exe.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Tablero\bin\Debug\Tablero.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Tablero\bin\Debug\Tablero.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Tablero\bin\Debug\CapaNegocio.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Tablero\bin\Debug\Entidades.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Tablero\bin\Debug\CapaNegocio.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Tablero\bin\Debug\Entidades.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Tablero\obj\Debug\Tablero.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Tablero\obj\Debug\Tablero.FrmJuego.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Tablero\obj\Debug\Tablero.Properties.Resources.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Tablero\obj\Debug\Tablero.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Tablero\obj\Debug\Tablero.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Tablero\obj\Debug\Tablero.csproj.CopyComplete
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Tablero\obj\Debug\Tablero.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\SerONoSerVacio\SerONoSer\Tablero\obj\Debug\Tablero.pdb
+C:\Users\Usuario\Desktop\DAM2\Acceso a datos\SerONoSerVacio\SerONoSer\Tablero\bin\Debug\Tablero.exe.config
+C:\Users\Usuario\Desktop\DAM2\Acceso a datos\SerONoSerVacio\SerONoSer\Tablero\bin\Debug\Tablero.exe
+C:\Users\Usuario\Desktop\DAM2\Acceso a datos\SerONoSerVacio\SerONoSer\Tablero\bin\Debug\Tablero.pdb
+C:\Users\Usuario\Desktop\DAM2\Acceso a datos\SerONoSerVacio\SerONoSer\Tablero\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Desktop\DAM2\Acceso a datos\SerONoSerVacio\SerONoSer\Tablero\bin\Debug\CapaNegocio.dll
+C:\Users\Usuario\Desktop\DAM2\Acceso a datos\SerONoSerVacio\SerONoSer\Tablero\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\DAM2\Acceso a datos\SerONoSerVacio\SerONoSer\Tablero\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Desktop\DAM2\Acceso a datos\SerONoSerVacio\SerONoSer\Tablero\bin\Debug\CapaDatos.dll.config
+C:\Users\Usuario\Desktop\DAM2\Acceso a datos\SerONoSerVacio\SerONoSer\Tablero\bin\Debug\CapaNegocio.pdb
+C:\Users\Usuario\Desktop\DAM2\Acceso a datos\SerONoSerVacio\SerONoSer\Tablero\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\DAM2\Acceso a datos\SerONoSerVacio\SerONoSer\Tablero\obj\Debug\Tablero.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\DAM2\Acceso a datos\SerONoSerVacio\SerONoSer\Tablero\obj\Debug\Tablero.FrmJuego.resources
+C:\Users\Usuario\Desktop\DAM2\Acceso a datos\SerONoSerVacio\SerONoSer\Tablero\obj\Debug\Tablero.Properties.Resources.resources
+C:\Users\Usuario\Desktop\DAM2\Acceso a datos\SerONoSerVacio\SerONoSer\Tablero\obj\Debug\Tablero.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\DAM2\Acceso a datos\SerONoSerVacio\SerONoSer\Tablero\obj\Debug\Tablero.csproj.CopyComplete
+C:\Users\Usuario\Desktop\DAM2\Acceso a datos\SerONoSerVacio\SerONoSer\Tablero\obj\Debug\Tablero.exe
+C:\Users\Usuario\Desktop\DAM2\Acceso a datos\SerONoSerVacio\SerONoSer\Tablero\obj\Debug\Tablero.pdb
